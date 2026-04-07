@@ -1,6 +1,6 @@
 <!-- gh stats -->
 
-[![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnharbeke&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Finn's Github Stats](./profile/stats.svg)
 
 <!-- wakatime -->
 
